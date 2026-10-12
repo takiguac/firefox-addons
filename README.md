@@ -82,7 +82,9 @@ https://greasyfork.org/en/scripts/500460-redirect-youtube-channel-to-videos
 
 https://greasyfork.org/en/scripts/557825-open-in-anna-s-archive-goodreads
 
-!(change line 351 to .li instead of .org)
+https://greasyfork.org/en/scripts/510484-working-unlock-any-medium-article
+
+https://greasyfork.org/en/scripts/485278-edit-last-fm-scrobbles
 
 !improve youtube
 

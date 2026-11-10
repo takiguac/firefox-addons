@@ -222,6 +222,9 @@ song id
 
 https://addons.mozilla.org/en-US/firefox/addon/song-identifier/
 
+steam price watcher
+
+https://addons.mozilla.org/en-US/firefox/addon/steam-price-watcher/
 
 [READING/LANGUAGE]
 
